@@ -1,4 +1,4 @@
-# [Ghost](https://github.com/TryGhost/Ghost) on [Heroku](http://heroku.com)
+#[Ghost](https://github.com/TryGhost/Ghost) on [Heroku](http://heroku.com)
 
 Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
@@ -34,4 +34,3 @@ If you have problems using your instance of Ghost, you should check the [officia
 
 ## License
 
-Released under the [MIT license](./LICENSE), just like the Ghost project itself.
